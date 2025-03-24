@@ -1,0 +1,15 @@
+body {
+font-family: 'Courier New', monospace;
+text-align: ceneter;
+  margins: 0;
+  padding: 0;
+  background-color: #000;
+  colr: #000F6F
+}
+
+header {
+  background-color: #002200;
+  color: #00ff00;
+  padding: 20px;
+  border-botom: 2px solid #00ff00;
+}
