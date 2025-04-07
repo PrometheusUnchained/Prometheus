@@ -1,10 +1,10 @@
 body {
 font-family: 'Courier New', monospace;
-text-align: ceneter;
+  text-align: center;
   margins: 0;
   padding: 0;
   background-color: #000;
-  colr: #000F6F
+  color: #000F6F
 }
 
 header {
@@ -12,4 +12,12 @@ header {
   color: #00ff00;
   padding: 20px;
   border-botom: 2px solid #00ff00;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #001100;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #00ff00;
 }
