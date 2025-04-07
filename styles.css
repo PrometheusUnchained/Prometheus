@@ -1,17 +1,17 @@
 body {
-font-family: 'Courier New', monospace;
-  text-align: center;
-  margins: 0;
-  padding: 0;
-  background-color: #000;
-  color: #000F6F
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    margins: 0;
+    padding: 0;
+    background-color: #000;
+    color: #000F6F
 }
 
 header {
-  background-color: #002200;
-  color: #00ff00;
-  padding: 20px;
-  border-botom: 2px solid #00ff00;
+    background-color: #ffffff;
+    color: ##001392;
+    padding: 20px;
+    border-botom: 2px solid #3D60EE;
 }
 
 section {
@@ -19,5 +19,5 @@ section {
     padding: 20px;
     background-color: #ffffff;
     border-radius: 10px;
-    box-shadow: 0 0 20px ##567BED;
+    box-shadow: 0 0 20px #567BED;
 }
